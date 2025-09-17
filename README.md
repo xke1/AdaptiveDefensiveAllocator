@@ -2,4 +2,4 @@ AdaptiveDefensiveAllocator is a tactical asset allocation strategy combining equ
 
 2019–2025 backtest: CAGR ~12%, Sharpe ~1.0, Max Drawdown ~-22%, ~500 trades.
 
-I currently use this strategy on paper trading.
+Record purpose only.
